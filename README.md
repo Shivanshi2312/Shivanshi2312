@@ -14,6 +14,13 @@ Data Scientist
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Shivanshi2312" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Shivanshi Chandel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@shivanshichandel4821" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+<a href="https://www.github.com/Shivanshi2312" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Shivanshi2312?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Shivanshi2312"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanshi2312&stroke=10b981&background=000000&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <!--
 **Shivanshi2312/Shivanshi2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
